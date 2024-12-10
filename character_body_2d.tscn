@@ -4,12 +4,14 @@
 [ext_resource type="Texture2D" uid="uid://bvrrh2wblycl1" path="res://icon.svg" id="2_jajat"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_frohe"]
+radius = 26.0192
 
 [node name="CharacterBody2D" type="CharacterBody2D"]
 script = ExtResource("1_2jnp2")
 
 [node name="Icon" type="Sprite2D" parent="."]
-position = Vector2(0, 1)
+position = Vector2(-1.52588e-05, 0)
+scale = Vector2(0.71875, 0.6875)
 texture = ExtResource("2_jajat")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]

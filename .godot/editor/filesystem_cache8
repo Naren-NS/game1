@@ -1,0 +1,8 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1733850724
+character_body_2d.gd::GDScript::-1::1732905888::0::1::::<>CharacterBody2D<>::
+character_body_2d.tscn::PackedScene::8312004941495874323::1732905888::0::1::::<><>::res://character_body_2d.gd<>uid://bvrrh2wblycl1::::res://icon.svg<>res://projectile.gd
+circle-filled-circle-radio-filled-round-bullet-svgrepo-com.svg::CompressedTexture2D::5274295458103292430::1732903851::1732904917::1::::<><>::
+icon.svg::CompressedTexture2D::3896526963522393640::1732281978::1732893043::1::::<><>::
+node_2d.tscn::PackedScene::2175093251151497689::1732904728::0::1::::<><>::
+projectile.gd::GDScript::-1::1733318989::0::1::::<>CharacterBody2D<>::
